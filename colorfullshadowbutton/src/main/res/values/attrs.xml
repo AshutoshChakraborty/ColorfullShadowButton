@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ColorfulShadowButton">
+        <attr name="shadowRadius" format="dimension" />
+        <attr name="shadowColor" format="color" />
+        <attr name="shadowXOffset" format="float" />
+        <attr name="shadowYOffset" format="float" />
+        <attr name="elevationValue" format="dimension"/>
+    </declare-styleable>
+</resources>
